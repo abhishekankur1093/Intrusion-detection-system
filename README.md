@@ -1,1 +1,5 @@
 # Intrusion-detection-system
+A Flow-Based Intrusion Detection System (IDS) model leverages deep generative techniques like RealNVP or Normalizing Flows to identify anomalies in network traffic. These models transform complex data distributions into simpler latent representations while preserving bijective mappings, enabling both data reconstruction and likelihood estimation. By analyzing the log probabilities and reconstruction errors of network flows, the model detects deviations from normal patterns, identifying potential intrusions or attacks. The flow-based approach excels in high-dimensional settings, providing scalability, interpretability, and robust detection capabilities. Its ability to model data distributions accurately makes it a powerful tool for enhancing security in dynamic network
+
+IDS FLOW BASED USED REAL NVP MODEL
+USES LOG PROBABILITY DISTRIBUTION TO HELP THE SYSTEM TO UNDERSTAND THE RELATION BETWEEN BENIGN AND OUTLIER THIS HELP THE SYSTEM TO PREDICT WETHER THE FOLLOWING PACKET IS BENIGN OR OUTLIER.
